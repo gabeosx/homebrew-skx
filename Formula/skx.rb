@@ -1,8 +1,8 @@
 class Skx < Formula
   desc "The CLI tool for managing Agent Skills"
   homepage "https://github.com/gabeosx/skx"
-  url "https://registry.npmjs.org/@gabeosx/skx/-/skx-1.1.4.tgz"
-  sha256 "de55d437c3d6de56ef23f204504dccfe47dc3c46a3e7dda23b2fb113ebfbcf94" # Placeholder
+  url "https://registry.npmjs.org/@gabeosx/skx/-/skx-1.1.5.tgz"
+  sha256 "61aded6ef537b4e9795b71fabf41cb12b1f6f9d137c2a4f1b88c766ebce6559a" # Placeholder
   license "ISC"
 
   depends_on "node"
